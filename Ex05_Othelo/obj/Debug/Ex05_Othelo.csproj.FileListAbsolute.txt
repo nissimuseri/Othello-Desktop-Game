@@ -1,0 +1,17 @@
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\bin\Debug\Ex05_Othelo.exe.config
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\bin\Debug\Ex05_Othelo.exe
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\bin\Debug\Ex05_Othelo.pdb
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\bin\Debug\en-US\Ex05_Othelo.resources.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\bin\Debug\pa-Guru\Ex05_Othelo.resources.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.csprojAssemblyReference.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.FormSettings.resources
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.Properties.Resources.resources
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.ResourceIcon.resources
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.FormSettings.en-US.resources
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.FormSettings.pa-Guru.resources
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.csproj.GenerateResource.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\en-US\Ex05_Othelo.resources.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\pa-Guru\Ex05_Othelo.resources.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.exe
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex05 EliadGavriel 205645377 NissimMuseri 206081697\Ex05_Othelo\obj\Debug\Ex05_Othelo.pdb
