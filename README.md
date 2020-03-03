@@ -7,4 +7,3 @@ This program at first written as a Console Application,
 and changed to Windows application by changing only the UI part (The logic part didn't change).
 
 
-![alt text](https://ibb.co/44Pc877)
